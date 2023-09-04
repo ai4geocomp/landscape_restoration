@@ -1,1 +1,1 @@
-# code repository for the landscape restoration study using Twitter data
+# Code repository for the landscape restoration study using Twitter data
