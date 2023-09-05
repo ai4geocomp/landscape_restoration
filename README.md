@@ -7,14 +7,14 @@ List of code scpripts (Goolge CoLab Jypter Notebook)\
 > 3. statics_summary_plots.ipynb: statistic summary of the landscape restoration related tweets\
 > 4. topics_BERT.ipynb: topic modeling with BERTopic\
 > 5. topics_over_time.ipynb: topic modeling with time\
-	6. tweets_country_assignment.ipynb: assign country information to each Twitter user\
-	7. [tree_planting_classifier]\
-		Ludwig_treeplanting_classifer.ipynb: text classifier for tree planting related tweets\
-		[data]: datasets for training and testing\
-		[model]: Ludwig model configuration files
+> 6. tweets_country_assignment.ipynb: assign country information to each Twitter user\
+> 7. [tree_planting_classifier]\
+>> Ludwig_treeplanting_classifer.ipynb: text classifier for tree planting related tweets\
+>>[data]: datasets for training and testing\
+>>[model]: Ludwig model configuration files
 
 List of figures produced from this project\
-[figures]
+> [figures]
 
 
 
