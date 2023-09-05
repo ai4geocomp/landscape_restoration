@@ -2,8 +2,8 @@
 
 List of code scpripts (Goolge CoLab Jypter Notebook)
 
-[code]:
-	1. network_actor_summary.ipynb: summarize commomn actors
+[code]:\
+	1. network_actor_summary.ipynb: summarize commomn Twitter users in the social networks\
 	2. network_spatial.ipynb:
 	3. statics_summary_plots.ipynb:
 	4. topics_BERT.ipynb:
