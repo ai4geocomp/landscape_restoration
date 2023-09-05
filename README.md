@@ -13,7 +13,7 @@ List of code scpripts (Goolge CoLab Jypter Notebook)\
 >>[data]: datasets for training and testing
 >>[model]: Ludwig model configuration files
 
-List of figures produced from this project
+List of figures produced from this project\
 [figures]:
 
 
