@@ -13,6 +13,7 @@ List of code scpripts (Goolge CoLab Jypter Notebook)
 		Ludwig_treeplanting_classifer.ipynb: text classifier for tree planting related tweets\
 		[data]: datasets for training and testing\
 		[model]: Ludwig model configuration files\
+		
 List of figures produced from this project\
 [figures]
 
