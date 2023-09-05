@@ -3,8 +3,8 @@
 List of code scpripts (Goolge CoLab Jypter Notebook)
 
 [code]:\
-	* 1. network_actor_summary.ipynb: summarize commomn Twitter users in the social networks\
-	* 2. network_spatial.ipynb: construction of the retweeting networks with user geogrpahic locations (i.e., country)\
+	1. network_actor_summary.ipynb: summarize commomn Twitter users in the social networks\
+	2. network_spatial.ipynb: construction of the retweeting networks with user geogrpahic locations (i.e., country)\
 	3. statics_summary_plots.ipynb: statistic summary of the landscape restoration related tweets\
 	4. topics_BERT.ipynb: topic modeling with BERTopic\
 	5. topics_over_time.ipynb: topic modeling with time\
