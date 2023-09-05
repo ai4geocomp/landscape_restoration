@@ -14,7 +14,7 @@ List of code scpripts (Goolge CoLab Jypter Notebook)\
 >>[model]: Ludwig model configuration files
 
 List of figures produced from this project
-> [figures]
+[figures]:
 
 
 
