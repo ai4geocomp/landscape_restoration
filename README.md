@@ -1,7 +1,7 @@
 # Code repository for the landscape restoration study using Twitter data
 
 List of code scpripts (Goolge CoLab Jypter Notebook)\
-[code]:\
+[code]:
 > 1. network_actor_summary.ipynb: summarize commomn Twitter users in the social networks\
 > 2. network_spatial.ipynb: construction of the retweeting networks with user geogrpahic locations (i.e., country)\
 > 3. statics_summary_plots.ipynb: statistic summary of the landscape restoration related tweets\
